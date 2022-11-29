@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8669a7c2-00c7-461b-ba7f-cd995af2a260" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/n1exercici2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1exercici2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/n1exercici3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1exercici3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n1exercici4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="n1exercici4" />
       <recent name="n1exercici2" />
     </key>
   </component>
@@ -70,13 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669742635113</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ejercicio 3 hecho">
+      <created>1669742883945</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669742883945</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicio1 hecho" />
     <MESSAGE value="Ejercicio2 hecho" />
     <MESSAGE value="Ejercicio1 con lista" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio1 con lista" />
+    <MESSAGE value="Ejercicio 3 hecho" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 3 hecho" />
   </component>
 </project>
