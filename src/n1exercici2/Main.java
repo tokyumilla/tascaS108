@@ -16,7 +16,10 @@ public class Main {
         list.add("gato");
         list.add("sepia");
 
-        list.stream().filter(s -> s.contains("o") && s.length()>5).forEach(s-> System.out.println(s));
+        //list.stream().filter(s -> s.contains("o") && s.length()>5).forEach(s-> System.out.println(s));
 
+        ArrayList<String> listOAnd5Char = new ArrayList<>();
+        list.stream().filter(s -> s.contains("o") && s.length()>5).forEach(s->listOAnd5Char.add(s));
+        System.out.println(listOAnd5Char);
     }
 }
