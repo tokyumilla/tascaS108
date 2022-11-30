@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8669a7c2-00c7-461b-ba7f-cd995af2a260" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/n1exercici4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n1exercici5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n1exercici5/Pi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n1exercici6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n1exercici7/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -32,11 +36,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="n1exercici6" />
+      <recent name="n1exercici7" />
       <recent name="n1exercici4" />
       <recent name="n1exercici2" />
     </key>
@@ -78,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669742883945</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ejercicio 4 hecho">
+      <created>1669743259071</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669743259071</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -86,6 +102,7 @@
     <MESSAGE value="Ejercicio2 hecho" />
     <MESSAGE value="Ejercicio1 con lista" />
     <MESSAGE value="Ejercicio 3 hecho" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 3 hecho" />
+    <MESSAGE value="Ejercicio 4 hecho" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 4 hecho" />
   </component>
 </project>
